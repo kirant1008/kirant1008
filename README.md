@@ -2,7 +2,7 @@
 
 **MongoDB Technical Specialist** | Ex-Intel, Ex-Motorola | MS in ECE from Northeastern University
 
-Technical Specialist at MongoDB working across Finance & Manufacturing industries. I build scalable data pipelines, automation tools, and AI/ML solutions with 5+ years of experience.
+5+ years of experience building scalable data pipelines, automation tools, and AI/ML solutions across semiconductor, video analytics, and enterprise domains.
 
 ---
 
@@ -22,7 +22,7 @@ Technical Specialist at MongoDB working across Finance & Manufacturing industrie
 ### 💼 Experience
 
 - **MongoDB** (2025-Present) — Technical Specialist, Industry Solutions
-  Cross-industry specialist (Finance & Manufacturing). Building technical demos, solution libraries, and managing infrastructure, CI/CD & automation
+  Cross-industry specialist (Finance & Manufacturing). Building technical solutions, solution libraries, and managing infrastructure, CI/CD & automation
 - **Intel Corporation** (2022-2024) — Software Engineer, Data Science & Automation Tools
   Built data pipelines with Airflow & PySpark, Power BI dashboards, CI/CD with GitHub Actions
 - **Motorola Solutions** (2021) — Software Engineer Co-op, Video Analytics Platform
