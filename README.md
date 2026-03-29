@@ -8,12 +8,14 @@ Technical Specialist at MongoDB working across Finance & Manufacturing industrie
 
 ### 🔧 What I Work With
 
-**Languages:** Python, SQL, C++, R
-**Data & Pipelines:** Apache Airflow, PySpark, Pandas, ETL/ELT
-**Databases:** PostgreSQL, MySQL, MongoDB, Redshift, SQLite
-**Cloud & DevOps:** AWS (S3, EC2, Redshift), Docker, Jenkins, GitHub Actions, CI/CD
-**AI/ML:** PyTorch, OpenCV, ONNX, YOLO, NLP (BERT, LSTM), Computer Vision
-**Visualization:** Power BI, Tableau, Matplotlib
+| | |
+|---|---|
+| **Languages** | Python, SQL, C++, R |
+| **Data & Pipelines** | Apache Airflow, PySpark, Pandas, ETL/ELT |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redshift, SQLite |
+| **Cloud & DevOps** | AWS (S3, EC2, Redshift), Docker, Jenkins, GitHub Actions, CI/CD |
+| **AI/ML** | PyTorch, OpenCV, ONNX, YOLO, NLP (BERT, LSTM), Computer Vision |
+| **Visualization** | Power BI, Tableau, Matplotlib |
 
 ---
 
@@ -50,15 +52,6 @@ Technical Specialist at MongoDB working across Finance & Manufacturing industrie
 | [Neural-Machine-Translation](https://github.com/kirant1008/Neural-Machine-Translation) | Seq2seq neural machine translation with attention mechanism |
 | [Image-Captioning-PyTorch](https://github.com/kirant1008/Image-Captioning-PyTorch) | Image captioning using CNN encoder + LSTM decoder in PyTorch |
 | [Traffic-Sign-Classification](https://github.com/kirant1008/Traffic-Sign-Classification) | Deep learning classifier on German Traffic Sign dataset |
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kirant1008&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirant1008&layout=compact&hide_border=true" height="165" />
-</p>
 
 ---
 
